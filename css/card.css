@@ -1,0 +1,47 @@
+.card{
+     height:100px;
+     width:450px;
+     margin:auto;
+     position:realtive;
+     top:120;
+}
+.card .card-header{
+                 height:40px;
+                 color:red;
+                 font-size:20px;
+                 text-align:center;
+}
+
+.card .card-content{
+                    height:200px;
+                    color:blue;
+}
+
+.card .card-footer{
+                  height:40px;
+                  color:green;
+                  font-size:20px;
+                  text-align:center;
+}
+
+img{
+    height:100px;
+    width:100px;
+    border-radius:100%;
+    position:relative;
+    top:10;
+    left:150;
+    margin:auto;
+}
+
+table{
+    margin-top:10px;
+}
+
+td{
+   width:140px;
+   text-align:center;
+   position:relative;
+   top:0;
+   left:90;
+}
